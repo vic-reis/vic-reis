@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="#"
+  <img height="150px" src="http://recursoscengage.com/portadas/br//full/9788522107353.jpg" />
+/>
+
 <!--
 **vic-reis/vic-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
