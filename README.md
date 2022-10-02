@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## <img height="25px" src="https://github.com/vic-reis/Minima/blob/main/logo.png?raw=true" /> Minimal <sup>beta</sup>
+## <img height="25px" src="https://github.com/vic-reis/Minima/blob/main/icon.png?raw=true" /> Minimal <sup>beta</sup>
 
 > Um pequeno framework de estilização que estou me desafiando a fazer
 
