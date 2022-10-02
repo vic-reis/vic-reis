@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<a href="#"
-  <img height="150px" src="http://recursoscengage.com/portadas/br//full/9788522107353.jpg" />
-/>
+## 📚 Books
+
+> Os principais titulos que vem me auxiliando nessa jornada, cada imagem leva para um repo com resumos e resoluções
+
+  <img height="150px" src="https://github.com/vic-reis/books/blob/main/Frame%201%20(1).png?raw=true" />
+
 
 <!--
 **vic-reis/vic-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
