@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Minimal <sup>BETA</sup>
+> Um pequeno framework de estilização que estou me desafiando a fazer
+
 ## 📚 Books
 
 > Os principais titulos que vem me auxiliando nessa jornada, cada imagem leva para um repo com resumos e resoluções
