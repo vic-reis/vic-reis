@@ -1,5 +1,12 @@
 ### Opá, certinho ai meu fi 👋
 
+<details>
+  <summary> 🙋a lot about me</summary>
+  <p>
+    Bom, eu ainda estou organizando a casa, então acredito não ter muitas coisa a brilhar os olhos, estou iniciando os estudos e pretendo registrar meu progresso por aqui, ainda não me sinto preparado para muito coisa, então... se deseja, pode retornar aqui mais tarde (1 semaninha, q tal?)
+  </p>
+</details>
+
 ## <img height="25px" src="https://github.com/vic-reis/Minima/blob/main/icon.png?raw=true" /> Minimal <sup>beta</sup>
 
 > Um pequeno framework de estilização que estou me desafiando a fazer
