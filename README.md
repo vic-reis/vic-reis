@@ -4,7 +4,7 @@
 
 > Os principais titulos que vem me auxiliando nessa jornada, cada imagem leva para um repo com resumos e resoluções
 
-<img height="150px" src="https://github.com/vic-reis/books/blob/main/pre_calculo/pre-calculo_valeria-medeiros.png?raw=true" /> <img height="150px" src="https://github.com/vic-reis/books/blob/main/algoritmos/algoritmos_thomas-cormen.png" />
+<img height="150px" src="https://github.com/vic-reis/books/blob/main/pre-calculo/pre-calculo_valeria-medeiros.png?raw=true" /> <img height="150px" src="https://github.com/vic-reis/books/blob/main/algoritmos/algoritmos_thomas-cormen.png" />
 
 
 
