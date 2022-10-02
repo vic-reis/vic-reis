@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## <img height="150px" src="https://github.com/vic-reis/Minima/blob/main/logo.png?raw=true" /> Minimal <sup>beta</sup>
-<img height="150px" src="https://github.com/vic-reis/Minima/blob/main/logo.png?raw=true" />
+## <img height="25px" src="https://github.com/vic-reis/Minima/blob/main/logo.png?raw=true" /> Minimal <sup>beta</sup>
+
 > Um pequeno framework de estilização que estou me desafiando a fazer
 
 ## 📚 Books
