@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opá, certinho ai meu fi 👋
 
 ## <img height="25px" src="https://github.com/vic-reis/Minima/blob/main/icon.png?raw=true" /> Minimal <sup>beta</sup>
 
